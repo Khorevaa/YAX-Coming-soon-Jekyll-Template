@@ -5,4 +5,4 @@ title: "Your Awesome Site"
 excerpt: "A Coming Soon Template"
 ---
 ## Website is under construction, Kindly check back soon.
-<p> ### Sorry for the inconvinence. </p>
+### Sorry for the inconvinence.
