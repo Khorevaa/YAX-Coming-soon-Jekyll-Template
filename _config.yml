@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "NAVNEET DESIGNWORKS"
-description: "Coming Soon...."
+description: "Coming Soon"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -18,11 +18,11 @@ countdown:
 
 # Site owner
 owner:
-  name: Navneet
+  name:
   email: 
   twitter:
   google-plus:
-  instagramm: s4ay3nr3yp43d
+  instagramm:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url:
